@@ -1,0 +1,4 @@
+1\ Python 安装 pip
+sudo easy_install pip
+
+2、 通过 pip 安装模块
